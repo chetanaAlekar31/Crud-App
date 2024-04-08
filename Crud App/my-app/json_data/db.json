@@ -1,0 +1,56 @@
+{
+  "EMP": [
+    {
+      "id": 3,
+      "emp_name": "XYZ",
+      "emp_email": "xyz@gmail.com",
+      "emp_role": "Part Time",
+      "emp_ctc": "10LPA",
+      "emp_skill": "Back End Development",
+      "emp_doc": null
+    },
+    {
+      "id": 4,
+      "emp_name": "XYZ",
+      "emp_email": "xyz@gmail.com",
+      "emp_role": "Part Time",
+      "emp_ctc": "10LPA",
+      "emp_skill": "Back End Development",
+      "emp_doc": null
+    },
+    {
+      "emp_name": "Adi",
+      "emp_email": "Aditi@gmail.com",
+      "emp_ctc": "7",
+      "emp_role": "Part-time",
+      "emp_skill": "Android Developer",
+      "id": 5
+    },
+    {
+      "emp_name": "Sanket  p",
+      "emp_email": "sanketpalshetkar@gmail.com",
+      "emp_ctc": "10",
+      "emp_role": "Full-time",
+      "emp_skill": "Other",
+      "id": 6
+    },
+    {
+      "emp_name": "Mohini",
+      "emp_email": "mona@gmail.com",
+      "emp_role": "Full Time",
+      "emp_ctc": "8",
+      "emp_skill": "BackEnd Developer",
+      "emp_doc": "IMG_20230612_194641.jpg",
+      "id": 7
+    },
+    {
+      "emp_name": "Chetana Gajanan Alekar",
+      "emp_email": "chetana.22020009@viit.ac.in",
+      "emp_role": "Full Time",
+      "emp_ctc": "9",
+      "emp_skill": "BackEnd Developer",
+      "emp_doc": "IMG_20230612_194641.jpg",
+      "id": 8
+    }
+  ]
+}
